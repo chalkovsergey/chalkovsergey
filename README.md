@@ -2,7 +2,6 @@
 
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
 - ⚡ I love writing an article for https://chalkovsergey.github.io/
 - 🤹🏽 I like to shoot videos for youtube 
