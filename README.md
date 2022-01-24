@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Sergey
 
 ## I'm a FrontEnd Developer, and Teacher
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://chalkovsergey.github.io/
-- 🤹🏽 I like to shoot videos for youtube 
+- 💪 Мне нравится писать код
+- 🥅 Постоянно учусь новому
+- ⚡ Люблю писать статьи для https://chalkovsergey.github.io/
+- 🤹🏽 Люблю снимать видео для ютуба
 
 ### Connect with me:
 
