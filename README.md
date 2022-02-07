@@ -1,11 +1,17 @@
 ### Hi there 👋, I'm Sergey
 
-[website]: https://chalkovsergey.github.io
-[youtube]: hhttps://www.youtube.com/channel/UCD_qgo3h3J9naTl3hVr4ctw
-[instagram]: https://www.instagram.com/sergeychalkov
-[vk]: https://vk.com/prostokovsergej7
-
+## I am working on my projects
 ---
-## All my work is here 👇
+> text editor (download from my-software repository)
 
+> 3d survival game (in development)
+
+
+## I work with programs such as:
+---
+> VS Code
+
+> Visual Studio 2022
+
+> GitHub
 
