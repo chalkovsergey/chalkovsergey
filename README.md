@@ -1,17 +1,7 @@
-### Hi there 👋, I'm Sergey
+![](https://readme-typing-svg.herokuapp.com?color=%FFFFF&lines=Hi+there+👋,+I'm+Sergey)
 
-## I am working on my projects
----
-> text editor (download from my-software repository)
+## I develop websites, games and applications. 🙌
+***
+## I am actively developing *[my site](https://chalkovsergey.github.io/portfolio)* where you can download my applications and games.
 
-> 3d survival game (in development)
-
-
-## I work with programs such as:
----
-> VS Code
-
-> Visual Studio 2022
-
-> GitHub
 
